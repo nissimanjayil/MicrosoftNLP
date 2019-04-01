@@ -1,3 +1,3 @@
 # MicrosoftNLP
 
-making a natural language procvessor! Yayyyy!
+making a natural language processor! Yayyyy!
